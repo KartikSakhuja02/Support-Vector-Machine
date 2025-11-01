@@ -1,5 +1,5 @@
-Task 01 - Implement a Support Vector Machine (SVM) model to classify images of cats and dogs using a given dataset.
-Given Dataset: https://www.kaggle.com/c/dogs-vs-cats/data
+Implementing a Support Vector Machine (SVM) model to classify images of cats and dogs using a given dataset.
+Dataset: https://www.kaggle.com/c/dogs-vs-cats/data
 
 The Python file named task03.py does all the tasks mentioned below.
 
